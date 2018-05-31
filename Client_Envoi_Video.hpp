@@ -1,0 +1,4 @@
+#ifndef CLIENT_ENVOI_VIDEO_HPP
+#define CLIENT_ENVOI_VIDEO_HPP
+
+#endif
